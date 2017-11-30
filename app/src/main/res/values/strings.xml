@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">ChangLangue</string>
+    <string name="demo">Demo</string>
+    <string name="language_cnese" translatable="false">日本の</string>
+    <string name="language_vietnamese" translatable="false">Tiếng Việt</string>
+
+    <string-array name="language_names">
+
+        <item>@string/language_cnese</item>
+        <item>@string/language_vietnamese</item>
+    </string-array>
+
+
+    <string name="language_cnese_code" translatable="false">za</string>
+    <string name="language_vietnamese_code" translatable="false">vi</string>
+
+    <string-array name="language_codes">
+
+        <item>@string/language_cnese_code</item>
+        <item>@string/language_vietnamese_code</item>
+    </string-array>
+</resources>
